@@ -1,0 +1,13 @@
+body {
+    background-color: #c8a2c8;
+}
+
+.height {
+    height: 35px;
+}
+
+.lorem {
+    font-size: 15px;
+    text-align: justify;
+    line-height: 1.5;
+}
