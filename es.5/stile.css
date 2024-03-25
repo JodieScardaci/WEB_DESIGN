@@ -1,5 +1,5 @@
 h1 {
-    color: red;
+    color: black;
     font-size: 60px;
 }
 
@@ -10,7 +10,7 @@ h1 {
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
 }
 
 @media (max-width:800px) {
