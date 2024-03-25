@@ -70,3 +70,42 @@ h4 {
     grid-row-gap: 20px;
     grid-column-gap: 200px;
 }
+
+.gridarea {
+    display: grid;
+    grid-template-columns: 400px 400px 400px 400px;
+    grid-template-rows: 400px 400px 400px;
+    grid-template-areas:
+        "b7 b2 b3 b4"
+        ". b5 b6 b1";
+    gap: 50px;
+
+}
+
+.box1 {
+    grid-area: b1;
+}
+
+.box2 {
+    grid-area: b2;
+}
+
+.box3 {
+    grid-area: b3;
+}
+
+.box4 {
+    grid-area: b4;
+}
+
+.box5 {
+    grid-area: b5;
+}
+
+.box6 {
+    grid-area: b6;
+}
+
+.box7 {
+    grid-area: b7;
+}
