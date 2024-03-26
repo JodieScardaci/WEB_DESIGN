@@ -1,0 +1,31 @@
+#absolute {
+    width: 200px;
+    height: 150px;
+    background-color: violet;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+
+#fixed {
+    width: 200px;
+    height: 150px;
+    background-color: pink;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+#contenitore {
+    width: 200px;
+    height: 1000px;
+}
+
+#sticky {
+    width: 200px;
+    height: 150px;
+    background-color: red;
+    position: sticky;
+    top: 50px;
+}
