@@ -34,7 +34,7 @@ body {
     font-style: italic;
 }
 
-/*headings*/
+/*txt*/
 
 h1 {
     font-size: 60px;
@@ -65,7 +65,7 @@ h2 {
     text-align-last: center;
 }
 
-#image-caption {
+#img-caption {
     font-size: 14px;
     color: #0b3461;
 }
